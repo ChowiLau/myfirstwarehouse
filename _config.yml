@@ -17,7 +17,7 @@ lang: zh-CN
 title: 刘兆炜的jekyll网站
 email: 673223845@qq.com
 description: 刘兆炜架设的jekyll网站,用于网页设计与制作课程期末项目
-baseurl: "/jekyll-theme-basically-basic"# the optional subpath of your site, e.g. "/blog"
+baseurl: "myfirstwarehouse"# the optional subpath of your site, e.g. "/blog"
 url: "https://ChowiLau.gitee.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "刘兆炜"
