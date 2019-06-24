@@ -3,7 +3,7 @@ layout: page
 title: 关键字在页面的位置
 excerpt_separator: "<!--more-->"
 categories:
-     - 平面设计
+     - 网站设计
 ---
 
 <!--more-->
