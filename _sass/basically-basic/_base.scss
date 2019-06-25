@@ -4,11 +4,13 @@
 
 html {
   @include fluid-type($min-vw, $max-vw, $min-font-size, $max-font-size);
+ 
 }
 
 body {
   background: $background-color;
   color: $text-color;
+  font-family: $global-font-family
 }
 
 blockquote,
