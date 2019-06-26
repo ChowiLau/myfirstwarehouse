@@ -3,6 +3,6 @@ layout: home
 ---
 <style>
 header.intro {
-    display: -webkit-box;
+    display: none;
 }
 </style>
