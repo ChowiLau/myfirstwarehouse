@@ -1,6 +1,7 @@
 ---
 title: "关于我"
 layout: about
+image: assets/images/死侍.jpg
 ---
 # 我是一名网络与新媒体的18级学生，现就读于中山大学南方学院，任职文学与传媒学院文娱部副部长。
 
