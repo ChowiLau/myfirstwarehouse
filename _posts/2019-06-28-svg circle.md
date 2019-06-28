@@ -1,0 +1,51 @@
+---
+layout: page
+title: 圈圈圆圆圈圈！
+excerpt_separator: "<!--more-->"
+categories:
+     - svg制作
+---
+
+<!--more-->
+<style>
+.body{
+  padding-top:50px;
+  background-color:#111;
+}
+.svg.circle{
+  will-change:stroke-dasharray;
+  stroke:cyan;
+  stroke-width:8;
+  display:block;
+  margin:0 auto;
+  width:300px;
+  height:300px;
+  fill: transparent;
+  stroke-dasharray:80;
+  transition:all .4s ease-in-out;
+}
+#circle:hover svg.circle{
+  animation: 2s rotate forwards;
+}
+#circle{
+  width:300px;
+  margin:0 auto;
+  cursor:pointer;
+}
+@keyframes rotate{
+  from{
+    stroke-dasharray:80;
+  }
+  to{
+    stroke-dasharray:0;
+    stroke-width:3;
+    stroke:magenta;
+    fill:#222;
+  }
+}
+</style>
+<div id="circle">
+  <svg class="circle">
+     <circle viewBox="0 0 300 300" class="path" stroke-linecap="round" cx="150" cy="150" r="130" xml:space="preserve"></circle>
+  </svg>
+</div>
