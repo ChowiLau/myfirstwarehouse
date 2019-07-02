@@ -13,4 +13,4 @@ categories:
 ## 下面请看实例：
 ![放大倍数代码](https://gitee.com/ChowiLau/myfirstwarehouse/raw/gh-pages/assets/images/note/2019-07-02-note_1.png)
 ![放大倍数](https://gitee.com/ChowiLau/myfirstwarehouse/raw/gh-pages/assets/images/note/2019-07-02-note_2.png)
-![图标](https://gitee.com/ChowiLau/myfirstwarehouse/blob/gh-pages/assets/images/note/2019-07-02-note_3.png)
+![图标](https://gitee.com/ChowiLau/myfirstwarehouse/raw/gh-pages/assets/images/note/2019-07-02-note_3.png)
