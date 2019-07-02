@@ -16,4 +16,5 @@ categories:
 4. 侧边栏导航以更加干净优雅的方式呈现更多的链接。
 
 ### 其代码如下：
-代码范例![代码范例](https://gitee.com/ChowiLau/myfirstwarehouse/raw/gh-pages/assets/images/note/2019-07-02-aside.png) 显示效果![显示效果](https://gitee.com/ChowiLau/myfirstwarehouse/raw/gh-pages/assets/images/note/2019-07-02-aside_2.png)
+代码范例![代码范例](https://gitee.com/ChowiLau/myfirstwarehouse/raw/gh-pages/assets/images/note/2019-07-02-aside.png) 
+显示效果![显示效果](https://gitee.com/ChowiLau/myfirstwarehouse/raw/gh-pages/assets/images/note/2019-07-02-aside_2.png)
