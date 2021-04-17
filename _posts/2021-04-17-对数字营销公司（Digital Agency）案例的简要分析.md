@@ -3,7 +3,7 @@ layout: page
 title: 对数字营销公司（Digital Agency）案例的简要分析
 excerpt_separator: "<!--more-->"
 categories:
-     - 学习笔记
+     - 数字化营销
 ---
 
 <!--more-->
