@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 商业模式
+title: 三大公司业务的界线及人才需求
 excerpt_separator: "<!--more-->"
 categories:
      - 市场时事 商业模式
