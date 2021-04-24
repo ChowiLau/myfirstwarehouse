@@ -11,7 +11,7 @@ categories:
 
 # 作品
 ### 下面是我的团队作品-[醒狮](http://www.ccfcs.cn/show/info?id=16231)
-![醒狮](https://images.gitee.com/uploads/images/2021/0424/141327_17d6e637_2229190.png "醒狮.png")
+![醒狮](https://gitee.com/ChowiLau/community-of-practice/raw/master/%E9%86%92%E7%8B%AE.png)
 
 ### 作品简介
 
@@ -20,7 +20,7 @@ categories:
 # 优秀作品案例
 ### 2021年中国数字媒体大奖-[M06.Best Mobile Campaign（最佳行动广告）](https://www.digitalmediaawards-china.com/en/winners-en/2021/)
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0424/141818_fbc74ea8_2229190.jpeg "敦煌.jpg")
+![输入图片说明](https://gitee.com/ChowiLau/community-of-practice/raw/master/%E6%95%A6%E7%85%8C.jpg)
 作品简介：考虑到最近视频内容已成为移动一代最受欢迎的新媒体格式之一，我们的活动以两个视频为中心，重点介绍了华为的增强考古项目并解释了使之成为可能的技术。一开始，我们计划在敦煌书院院长的带领下，对莫高窟进行虚拟直播，这是致力于研究这些洞穴的顶级研究机构。院长使用华为的AR地图，带领观众模拟参观了这些山洞，停下来指出主要特征并解释他们的历史。
 
 # 对比
