@@ -3,7 +3,7 @@ layout: page
 title: 作品“攀比”
 excerpt_separator: "<!--more-->"
 categories:
-     - 作品“攀比” 商业模式
+     - 作品更新 商业模式
 ---
 
 <!--more-->
