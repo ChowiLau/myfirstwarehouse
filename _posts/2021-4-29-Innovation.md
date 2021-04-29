@@ -3,7 +3,7 @@ layout: page
 title: 推动可持续社会价值创新
 excerpt_separator: "<!--more-->"
 categories:
-     - 市场时事 可持续社会价值创新
+     - 市场时事 可持续发展
 ---
 
 <!--more-->
