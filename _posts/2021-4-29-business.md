@@ -3,7 +3,7 @@ layout: page
 title: 共益企业/B型企业、ESG/CSR
 excerpt_separator: "<!--more-->"
 categories:
-     - 市场时事 可持续发展
+     - 基本概念 可持续发展
 ---
 
 <!--more-->
